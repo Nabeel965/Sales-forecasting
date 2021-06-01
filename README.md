@@ -17,8 +17,8 @@ For dimensionality reduction, auto-encoders were trained both in Keras and Pytor
 
 ## Results
 Forecasting result of FP prophet model is:
-<p align="center"><img src="fb_prophet result.PNG"></p>
+<p align="center"><img width=500px height=500px src="fb_prophet result.PNG"></p>
 
 Comparison of different models and approaches as compared to 1st ranked solution:
-<p align="center"><img src="rmse comparisons.PNG"></p>
+<p align="center"><img width=500px height=500px src="rmse comparisons.PNG"></p>
 
